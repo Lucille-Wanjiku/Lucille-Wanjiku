@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucille Wanjiku Njuguna</h1>
+<h1 align="center">Hi 👋, I'm Lucille Wanjiku Khaemba</h1>
 <h3 align="center">Data Scientist, former brand and web designer.Learning Python,ML and SQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucille-wanjiku&label=Profile%20views&color=0e75b6&style=flat" alt="lucille-wanjiku" /> </p>
