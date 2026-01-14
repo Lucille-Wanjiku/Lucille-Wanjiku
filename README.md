@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucille-wanjiku&label=Profile%20views&color=0e75b6&style=flat" alt="lucille-wanjiku" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucille-wanjiku" alt="lucille-wanjiku" /></a> </p>
+<p align="left"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTkxMzFjY212MzZiaHM2a2U0c3FzdmFkaHpzbW50Z2F0NmtraHpzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VpxpIm1coCLZzvgCtB/giphy.gif" alt="lucille-wanjiku" /></a> </p>
 
 - 🔭 I’m currently working on **an Agritech project**
 
